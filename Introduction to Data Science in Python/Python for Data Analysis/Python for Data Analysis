@@ -1,5 +1,4 @@
 # Python for Data Analysis
-
 *Python for Data Analysis (2nd Edition)* written by Wes McKinney is the reference book of Introduction to Data Science in Python. The following chapters are involved in this course:
 - Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks
 - Chapter 3: Built-in Data Structures, Functions, and Files
@@ -10,3 +9,4 @@
 - Chapter 10: Data Aggregation and Group Operations
 - Chapter 11: Time Series
 - Chapter 12: Advanced pandas
+Now the 3rd edition of *Python for Data Analysis* is avaible online: https://wesmckinney.com/book/.
