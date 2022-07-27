@@ -1,5 +1,0 @@
-Although the current codes in assignment4.ipynb can get a 100/100 in the autograder, 
-there are still possible improvements that haven't made so far due to limited time:
-- writing several functions to tidy messy data instead of copying and pasting exsited codes
-- matching `cities` data frame and `NHL` (`NBA`/`MLB`/`NFL`) data frame in a more sensible way 
-that can accurately sort the location and the team apart (here I took a shortcut to distinguish Boston Red Sox and Chicago White Sox, sorry)
